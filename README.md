@@ -158,3 +158,4 @@ After installing the requirements, open a command prompt and you can start up th
 
 ### Thats all! I hope that this bot helps you to see how awesome algorithmic trading can be. 
 ### Have a good one!
+### Enjoy!
